@@ -30,7 +30,7 @@ To run the app
 
 `npm run dev`
 
-![alt text](image.png)
+![alt text](domain1/image.png)
 
 
 ## How to use the app
